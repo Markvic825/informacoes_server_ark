@@ -22,7 +22,7 @@
         "content": [
           {
             "title": "<TextStyle.Blue>[BR] IRONSIDE</>",
-            "text": "Bem Vindo ao [BR] IRONSIDE - Comunidade Brasileira de Ark!\n\nPor favor entre em nosso Discord para se informar sobre tudo e LER NOSSAS REGRAS! Preibido fazer comércio com DINHEIRO REAL, punivel com BAN. Tanto para quem vende, como quem compra.\nEste servidor é gratuito para jogar para sempre! Mas o custo é alto, temos uma boa infraestrutura para hospedar os servidores. Se gosta deste servidor, quer ajudar a mante-lo sempre online e nos incentivar a deixar-lo sempre organizado e funcionando, considere doar para ajudar nos custos.\n\nAperte F1 sempre que quiser acessar essa tela de ajuda.\n\nAcesse nosso Discord no botão abaixo (Nosso Discord)."
+            "text": "<TextStyle.Green>Bem Vindo ao [BR] IRONSIDE - Comunidade Brasileira de Ark!</>\n\n<TextStyle.Red>Por favor entre em nosso Discord para se informar sobre tudo e LER NOSSAS REGRAS! Preibido fazer comércio com DINHEIRO REAL, punivel com BAN. Tanto para quem vende, como quem compra.\nEste servidor é gratuito para jogar para sempre! Mas o custo é alto, temos uma boa infraestrutura para hospedar os servidores. Se gosta deste servidor, quer ajudar a mante-lo sempre online e nos incentivar a deixar-lo sempre organizado e funcionando, considere doar para ajudar nos custos.</>\n\n<TextStyle.Blue>Aperte F1 sempre que quiser acessar essa tela de ajuda.</>\n\n<TextStyle.Orange>Acesse nosso Discord no botão abaixo (Nosso Discord).</>"
           }
         ]
       },
