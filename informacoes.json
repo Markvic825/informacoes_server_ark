@@ -1,68 +1,64 @@
 {
-  "WBUI2":
-  {
-    "settings":
+  "settings": {
+    "openbutton": 0,
+    "hideicon": false,
+    "hideiconafter": 60,
+    "iconurl": "https://i.postimg.cc/523VSYpp/LOGO_ASA_SEM_FUNDO.png",
+    "disableicontext": true,
+    "iconposition": 1,
+    "icontextcolor": 0,
+    "openonstart": true,
+    "openonstartonlynewplayers": true,
+    "updateinterval": 12
+  },
+  "tabs": [
     {
-      "openbutton": 0,
-      "hideicon": false,
-      "hideiconafter": 60,
-      "iconurl": "https://i.postimg.cc/523VSYpp/LOGO_ASA_SEM_FUNDO.png",
-      "disableicontext": true,
-      "iconposition": 1,
-      "icontextcolor": 0,
-      "openonstart": true,
-      "openonstartonlynewplayers": true,
-      "updateinterval": 12
+      "layout": 1,
+      "buttontext": "Bem-Vindo",
+      "imageurl": "",
+      "content": [
+        {
+          "title": "[BR] IRONSIDE",
+          "text": "Bem Vindo ao [BR] IRONSIDE - Comunidade Brasileira de Ark!\n\nPor favor entre em nosso Discord para se informar sobre tudo e LER NOSSAS REGRAS! Proibido fazer comércio com DINHEIRO REAL, punível com BAN. Tanto para quem vende, como quem compra.\n\nEste servidor é gratuito para jogar para sempre! Mas o custo é alto, temos uma boa infraestrutura para hospedar os servidores. Se gosta deste servidor, quer ajudar a mantê-lo sempre online e nos incentivar a deixá-lo sempre organizado e funcionando, considere doar para ajudar nos custos.\n\nAperte F1 sempre que quiser acessar essa tela de ajuda.\n\nAcesse nosso Discord no botão abaixo (Nosso Discord)."
+        }
+      ]
     },
-    "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "Bem-Vindo",
-        "imageurl": "",
-        "content": [
-          {
-            "title": "[BR] IRONSIDE",
-            "text": "Bem Vindo ao [BR] IRONSIDE - Comunidade Brasileira de Ark!\n\nPor favor entre em nosso Discord para se informar sobre tudo e LER NOSSAS REGRAS! Preibido fazer comércio com DINHEIRO REAL, punivel com BAN. Tanto para quem vende, como quem compra.\nEste servidor é gratuito para jogar para sempre! Mas o custo é alto, temos uma boa infraestrutura para hospedar os servidores. Se gosta deste servidor, quer ajudar a mante-lo sempre online e nos incentivar a deixar-lo sempre organizado e funcionando, considere doar para ajudar nos custos.\n\nAperte F1 sempre que quiser acessar essa tela de ajuda.\n\nAcesse nosso Discord no botão abaixo (Nosso Discord)."
-          }
-        ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "Configurações do Servidor",
-        "imageurl": "",
-        "content": [
-          {
-            "title": "Configurações Gerais do Servidor",
-            "text": "➤Nível Máximo do Personagem: 205\nNível Máximo Animais Selvagens: 300\nNível Máximo Animais Domesticados: ...\nMultiplicador Colheita/XP: 3x\nMultiplicador Domesticação: 5x\nMultiplicador Breeding: 20x\nUp Stats Peso Personagem: 4x\nUp Stats Peso Animal: 4x\nLimite de Estruturas por Área: ...\nLimite de Estruturas por Área (Genesis): ...\nLimite de Estruturas por Mapa: ...\nLimite de Estruturas por Mapa (Genesis): ...\nLimite de Animais Soltos por Tribo: 120\nMultiplicador Acasalamento/Crescimento: 20x\nTempo de Expiração de Personagem na Nuvem: 14 Dias\nTempo de Expiração de Personagem no Mapa: 6 Meses\nTempo de Decaimento de Estruturas e Animais: 10 Dias\nMáximo 5 jogadores na Tribo."
-          }
-        ]
-      },
-      {
-        "layout": 3,
-        "buttontext": "Orientações importantes",
-        "imageurl": "",
-        "content": [
-          {
-            "title": "INI settings:",
-            "text": "É OBRIGATÓRIO entrar no grupo do servidor no Discord (botão com o link abaixo), entrando nele você interage melhor com nossos jogadores, além de ficar por dentro de todas as novidades do nosso servidor. O principal e único canal de comunicação entre os administradores/moderadores e jogadores é o Discord. Nosso Discord reúne informações úteis, publicações e anúncios de todos os nossos servidores. Além de que toda as regras estão listadas lá no Discord. Estar nele é obrigatório pra quem joga aqui!\n\nÉ PROIBIDO a negociação, anúncio, citação ou qualquer conversa/processo de compra/venda de itens/animais/outros no privado dos membros, chat do jogo ou em qualquer outro canal ou meio de comunicação que não seja na sala específica de Comércio em nosso Discord ou Whatsapp.\n\nNão é permitido doar itens/animais a jogadores, sejam eles iniciantes ou não. Esse tipo de atitude prejudica a experiência do outro jogador, mesmo que ele não saiba disso. Quando se ganha algo de "mão beijada", perde-se a graça e a experiência no jogo por não ter conquistado aquilo. Cada conquista no jogo, por menor que seja, faz parte da diversão e engajamento. Então quanto mais "conquistas" ganhas jogando, mais o jogador valoriza suas coisas, se diverte e mais tempo ele passa jogando aqui.\n\nQuando seu personagem estar OFFLINE, podem surgir bugs de renderização que fazem ele entrar no limbo do mapa, ser jogado pra fora da base e entre outros bugs, fazendo você perder os itens do inventário, por isso é importante não deixar itens importantes no inventário do personagem quando for ficar OFFLINE. Entre no nosso Discord e leia o canal de Bugs Conhecidos para a lista completa de Bugs.\n\nOBSERVAÇÃO: Entre no nosso Discord pelo botão abaixo escrito: (NOSSO DISCORD)."
-          }
-        ]
-      }
-    ],
-    "links": [
-      {
-        "text": "Nossa Lojinha",
-        "url": "https://ironsideasabr.centralcart.com.br/"
-      },
-      {
-        "text": "Nosso Discord",
-        "url": "https://discord.gg/XK3kQmJ5bf"
-      },
-      {
-        "text": "Nosso Grupo no Whatsapp",
-        "url": "https://chat.whatsapp.com/GF4odULGWtk6z0XkJDVkKP"
-      }
-    ],
-    "version": 2
-  }
+    {
+      "layout": 2,
+      "buttontext": "Configurações do Servidor",
+      "imageurl": "",
+      "content": [
+        {
+          "title": "Configurações Gerais do Servidor",
+          "text": "➤Nível Máximo do Personagem: 205\n➤Nível Máximo Animais Selvagens: 300\n➤Multiplicador Colheita/XP: 3x\n➤Multiplicador Domesticação: 5x\n➤Multiplicador Breeding: 20x\n➤Up Stats Peso Personagem: 4x\n➤Up Stats Peso Animal: 4x\n➤Limite de Animais Soltos por Tribo: 120\n➤Tempo de Expiração de Personagem na Nuvem: 14 Dias\n➤Tempo de Decaimento de Estruturas e Animais: 10 Dias\n➤Máximo 5 jogadores na Tribo."
+        }
+      ]
+    },
+    {
+      "layout": 1,
+      "buttontext": "Orientações importantes",
+      "imageurl": "",
+      "content": [
+        {
+          "title": "Avisos Gerais",
+          "text": "É OBRIGATÓRIO entrar no grupo do servidor no Discord. O principal e único canal de comunicação entre a staff e jogadores é o Discord. Estar nele é obrigatório pra quem joga aqui!\n\nÉ PROIBIDO a negociação de itens/animais por dinheiro real no privado dos membros ou chat do jogo. Use apenas a sala específica de Comércio no Discord ou Whatsapp.\n\nNão é permitido doar itens/animais a jogadores. Quando se ganha algo de 'mão beijada', perde-se a graça e a experiência no jogo. Valorize suas conquistas!\n\nCuidado ao deslogar: Quando seu personagem está OFFLINE, podem surgir bugs de renderização. Evite deixar itens importantes no inventário do corpo ao sair.\n\nOBSERVAÇÃO: Entre no nosso Discord pelo botão abaixo."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "text": "Nossa Lojinha",
+      "url": "https://ironsideasabr.centralcart.com.br/"
+    },
+    {
+      "text": "Nosso Discord",
+      "url": "https://discord.gg/XK3kQmJ5bf"
+    },
+    {
+      "text": "Nosso Grupo no Whatsapp",
+      "url": "https://chat.whatsapp.com/GF4odULGWtk6z0XkJDVkKP"
+    }
+  ],
+  "version": 2
 }
