@@ -1,0 +1,72 @@
+{ 
+  "WBUI2":
+  {
+    "settings":
+    { 
+      "openbutton": 0,
+      "hideicon": false, 
+      "hideiconafter": 60,
+      "iconurl": "https://i.postimg.cc/FR7tBqn5/LOGO-INFO.png",
+      "disableicontext": true, 
+      "iconposition": 1,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Orange>Bem-Vindo</>",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Green>[BR] IRONSIDE - PVP</>",
+            "text": "<TextStyle.Green>Bem Vindo ao [BR] IRONSIDE - PVP - Comunidade Brasileira de Ark!</>\n\n<TextStyle.Red>Por favor entre em nosso Discord para se informar sobre tudo e LER NOSSAS REGRAS! Proibido fazer comércio com DINHEIRO REAL, punível com BAN. Tanto para quem vende, como quem compra.</> \n\nEste servidor é gratuito para jogar para sempre! Mas o custo é alto, temos uma boa infraestrutura para hospedar os servidores. Se gosta deste servidor, quer ajudar a mante-lo sempre online e nos incentivar a deixar-lo sempre organizado e funcionando, considere doar para ajudar nos custos.\n\n<TextStyle.Blue>Aperte</> F1 <TextStyle.Blue>sempre que quiser acessar essa tela de ajuda.</> \n\n<TextStyle.Orange>Acesse nosso Discord no botão abaixo (Nosso Discord).</>"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Orange>Configurações do Servidor</>",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Green>Configurações Gerais do Servidor</>",
+            "text": "<TextStyle.Orange>➤Nível Máximo do Personagem:</> 205\n<TextStyle.Orange>➤Nível Máximo Animais Selvagens:</> 300\n<TextStyle.Orange>➤Nível Máximo Animais Domesticados:</> N/A\n<TextStyle.Orange>➤Multiplicador Colheita/XP:</> 10x\n<TextStyle.Orange>➤Multiplicador Domesticação:</> 10x\n<TextStyle.Orange>➤Multiplicador Breeding:</> 30x\n<TextStyle.Orange>➤Up Stats Peso Personagem:</> 4x\n<TextStyle.Orange>➤Up Stats Peso Animal:</> 4x\n<TextStyle.Orange>➤Limite de Estruturas por Área:</> N/A\n<TextStyle.Orange>➤Limite de Estruturas por Área (Genesis):</> N/A\n<TextStyle.Orange>➤Limite de Estruturas por Mapa:</> N/A\n<TextStyle.Orange>➤Limite de Estruturas por Mapa (Genesis):</> N/A\n<TextStyle.Orange>➤Limite de Animais Soltos por Tribo:</> 100\n<TextStyle.Orange>➤Multiplicador Acasalamento/Crescimento:</> 20x\n<TextStyle.Orange>➤Tempo de Expiração de Personagem na Nuvem:</> 14 Dias\n<TextStyle.Orange>➤Tempo de Expiração de Personagem no Mapa:</> 6 Meses\n<TextStyle.Orange>➤Tempo de Decaimento de Estruturas e Animais:</> 7 Dias\n<TextStyle.Orange>➤Máximo</> 4 <TextStyle.Orange>jogadores na Tribo.</>"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Orange>Orientações importantes</>",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Green>Orientações importantes</>",
+            "text": "<TextStyle.Orange>➤ É OBRIGATÓRIO</> entrar no grupo do servidor no Discord (botão com o link abaixo), entrando nele você interage melhor com nossos jogadores, além de ficar por dentro de todas as novidades do nosso servidor. O principal e único canal de comunicação entre os administradores/moderadores e jogadores é o Discord. Nosso Discord reúne informações úteis, publicações e anúncios de todos os nossos servidores. Além de que toda as regras estão listadas lá no Discord. Estar nele é obrigatório pra quem joga aqui!\n\n<TextStyle.Orange>➤ É PROIBIDO</> a negociação, anúncio, citação ou qualquer conversa/processo de compra/venda de itens/animais/outros no privado dos membros, chat do jogo ou em qualquer outro canal ou meio de comunicação que não seja na sala específica de Comércio em nosso Discord ou Whatsapp.\n\n➤ Não é permitido doar itens/animais a jogadores, sejam eles iniciantes ou não. Esse tipo de atitude prejudica a experiência do outro jogador, mesmo que ele não saiba disso. Quando se ganha algo de (mão beijada), perde-se a graça e a experiência no jogo por não ter conquistado aquilo. Cada conquista no jogo, por menor que seja, faz parte da diversão e engajamento. Então quanto mais (conquistas) ganhas jogando, mais o jogador valoriza suas coisas, se diverte e mais tempo ele passa jogando aqui.\n\n➤ Quando seu personagem estar OFFLINE, podem surgir bugs de renderização que fazem ele entrar no limbo do mapa, ser jogado pra fora da base e entre outros bugs, fazendo você perder os itens do inventário, por isso é importante não deixar itens importantes no inventário do personagem quando for ficar OFFLINE. Entre no nosso Discord e leia o canal de Bugs Conhecidos para a lista completa de Bugs.\n\n<TextStyle.Orange>➤ OBSERVAÇÃO:</> Entre no nosso Discord pelo botão abaixo escrito: (NOSSO DISCORD)."
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "<TextStyle.Orange>Nossa Lojinha</>",
+        "url": "https://ironsideasabr.centralcart.ai"
+      },
+      {
+        "text": "<TextStyle.Orange>Nosso Discord</>",
+        "url": "https://discord.gg/XK3kQmJ5bf"
+      },
+      {
+        "text": "<TextStyle.Orange>Nosso Grupo no Whatsapp</>",
+        "url": "https://chat.whatsapp.com/L7LmKoPmbZbBfuwMr1nA5O?s=sh&p=a&mlu=4&ilr=4"
+      },
+      {
+        "text": "<TextStyle.Orange>Canal Youtube</>",
+        "url": "https://www.youtube.com/@IRONSIDEBR-ARK"
+      }
+    ],
+    "version": 2
+  }
+}
